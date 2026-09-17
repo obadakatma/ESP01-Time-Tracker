@@ -1,6 +1,8 @@
+<div align="center">
+
 # ESP-01 Time Tracker
 
-**A one-button, Wi-Fi time clock that logs your hours straight into Google Sheets.**a
+**A one-button, Wi-Fi time clock that logs your hours straight into Google Sheets.**
 
 <img src="Docs/Device%20Body%20v8%20Transparent.png" alt="ESP-01 Time Tracker device" width="420"/>
 
